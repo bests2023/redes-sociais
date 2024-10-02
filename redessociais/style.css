@@ -1,5 +1,7 @@
 body {
-    background-color:blueviolet;
+    background-color: blueviolet;
     color: aqua;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 100vh;
+    margin: 0;
 }
